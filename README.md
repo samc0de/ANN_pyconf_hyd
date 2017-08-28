@@ -1,4 +1,4 @@
-## Slides and contents for pyconf: Artificial Neural Networks
+## Slides and contents for pyconf: Artificial Neural Networks [WIP :-/ ]
 
 
 ### Artificial Neural Networks: From zero to real world projects
