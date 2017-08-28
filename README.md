@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Slides and contents for pyconf: Artificial Neural Networks
 
-You can use the [editor on GitHub](https://github.com/samc0de/ANN_pyconf_hyd/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Artificial Neural Networks: From zero to real world projects
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Artificial Neural Networks (ANN henceforth) are so common today, and some consider it as a master key for almost all machine learning problems. There are many toolkits and libraries (tools henceforth) available, but I myself have never been comfortable with these until I understand (at least partially) what’s going on under the hood. I’m in no way saying that these tools are poorly documented or have a difficult learning curve, it’s just the way I tend to learn. Assuming that I am not alone in this regard, I would like to help others in their quest to understand and master ANN by giving my bit.
 
-```markdown
-Syntax highlighted code block
+I am going to start with explaining (only a little) about ideas behind ANNs very very briefly, after which  I’ll show some basic & trivial examples. The talk will mainly focus on (My main focus will be towards) two parts. Firstly, to show how to implement an ANN which practically ‘does something’, using only numpy (only for functionalities like np.dot, np.reshape which are not directly related to ANN) and core python. Second part, will consist of peeking (a little) inside tools like scikit-learn and TensorFlow and working with them.
 
-# Header 1
-## Header 2
-### Header 3
+Numerous interesting and notable projects using these (or any other like caffe) will be mentioned in the end to show capabilities of ANNs.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samc0de/ANN_pyconf_hyd/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Bonus (if time permits): Using PyCUDA for ANN computations
+NLTK.
+Caffe.
