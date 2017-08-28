@@ -14,7 +14,5 @@ Numerous interesting and notable projects using these (or any other like caffe) 
 Bonus (if time permits):
 
 Using PyCUDA for ANN computations
-
 NLTK.
-
 Caffe.
