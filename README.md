@@ -11,6 +11,10 @@ I am going to start with explaining (only a little) about ideas behind ANNs very
 Numerous interesting and notable projects using these (or any other like caffe) will be mentioned in the end to show capabilities of ANNs.
 
 
-Bonus (if time permits): Using PyCUDA for ANN computations
+Bonus (if time permits):
+
+Using PyCUDA for ANN computations
+
 NLTK.
+
 Caffe.
